@@ -1,0 +1,35 @@
+.menu-wrapper {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu-btn {
+  background-color: rgb(200, 228, 228);
+  margin: 0px 30px;
+  width: 120px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.menu-btn:hover {
+  background-color: rgb(174, 177, 177);
+  cursor: pointer;
+}
+
+.a-btn {
+  
+  margin: 10px 0px;
+  width: 120px;
+  height: 40px;
+  /* text-align: center; */
+  text-decoration: none;
+  color:rgb(58, 58, 58)
+}

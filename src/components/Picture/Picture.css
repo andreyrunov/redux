@@ -1,0 +1,21 @@
+.picture-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 640px;
+  height: 480px;
+
+}
+
+.likes-wrapper {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.img {
+  max-width: 640px;
+  max-height: 480px;
+}
+
+
+
